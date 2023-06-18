@@ -1,0 +1,9 @@
+ 
+streamlit==0.51.0
+ 
+newsapi-python
+numpy==1.18.0
+bs4==0.0.1
+lxml==4.6.5
+requests==2.23.0
+ 
